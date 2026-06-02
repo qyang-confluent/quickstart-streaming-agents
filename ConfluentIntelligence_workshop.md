@@ -27,7 +27,7 @@ When using GitHub Codespaces:
 - Github User Account (using GitHub Codespaces)
 - Confluent Cloud User Account and Password
 - AWS Bedrock API Key/Secret
-- Zapier API Key/Secret
+
 
 ## Prerequisites - Run locally
 
